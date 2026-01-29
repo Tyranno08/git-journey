@@ -1,1 +1,2 @@
-Hello! File Two for Git
+Hello! File Two for Git.
+Changes to Two.
